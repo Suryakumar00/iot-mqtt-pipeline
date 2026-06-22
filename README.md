@@ -11,4 +11,5 @@ This project establishes an end-to-end IoT data pipeline, integrating embedded h
 * **Backend:** Golang
 
 ## 📊 Proof of Performance
-[Insert your screenshot here, e.g., ![Pipeline Output](assets/pipeline-output.png)]
+[https://github.com/Suryakumar00/iot-mqtt-pipeline/blob/main/Screenshot%202026-06-22%20141029.png
+, e.g., ![Pipeline Output](assets/pipeline-output.png)]
