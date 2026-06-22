@@ -18,3 +18,9 @@ https://github.com/Suryakumar00/iot-mqtt-pipeline/blob/main/Screen%20Recording%2
 
 ### Pipeline Output
 https://github.com/Suryakumar00/iot-mqtt-pipeline/blob/main/Screenshot%202026-06-22%20141058.png
+
+
+<img width="1920" height="1080" alt="Screenshot 2026-06-22 141058" src="https://github.com/user-attachments/assets/b2474fdb-920b-4a4a-981c-f338b98b35fb" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-06-22 141029" src="https://github.com/user-attachments/assets/664f1b97-a8bd-403b-95d1-9c8099654f16" />
+
