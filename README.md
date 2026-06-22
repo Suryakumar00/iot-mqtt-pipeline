@@ -13,4 +13,5 @@ This project establishes an end-to-end IoT data pipeline, integrating embedded h
 ## 📊 Proof of Performance
 [https://github.com/Suryakumar00/iot-mqtt-pipeline/blob/main/Screenshot%202026-06-22%20141029.png
 https://github.com/Suryakumar00/iot-mqtt-pipeline/blob/main/Screenshot%202026-06-22%20141058.png
+https://github.com/Suryakumar00/iot-mqtt-pipeline/blob/main/Screen%20Recording%202026-06-22%20141303.mp4
 , e.g., ![Pipeline Output](assets/pipeline-output.png)]
