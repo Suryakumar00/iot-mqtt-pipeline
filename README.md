@@ -1,4 +1,4 @@
-# iot-mqtt-pipeline
+# Iot-mqtt-pipeline
 Add a brief sentence describing your project (e.g., "End-to-end IoT data pipeline using Golang and ESP32
 # IoT MQTT Pipeline
 
@@ -18,6 +18,21 @@ https://github.com/Suryakumar00/iot-mqtt-pipeline/blob/main/Screen%20Recording%2
 
 ### Pipeline Output
 https://github.com/Suryakumar00/iot-mqtt-pipeline/blob/main/Screenshot%202026-06-22%20141058.png
+
+
+
+
+
+
+
+
+
+
+
+
+https://github.com/user-attachments/assets/d6d50aba-b24f-4012-a422-5dcdcb628b1a
+
+
 
 
 <img width="1920" height="1080" alt="Screenshot 2026-06-22 141058" src="https://github.com/user-attachments/assets/b2474fdb-920b-4a4a-981c-f338b98b35fb" />
